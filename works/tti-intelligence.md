@@ -1,6 +1,6 @@
 # TTI Intelligence
 
-[Website](https://tti-intel.com/)
+[Website](https://tti-intel.com/) · [Source Code](https://github.com/haruhito0314/tti-intel-web)
 
 ![TTI Intelligence](../assets/tti/tti-hero.jpg)
 
@@ -62,4 +62,5 @@ TTI Intelligenceは、最新のAI技術を共に学び、実践的な開発を�
 ## Links
 
 - [Website](https://tti-intel.com/)
+- [Source Code](https://github.com/haruhito0314/tti-intel-web)
 - [Portfolio Index](../README.md)
