@@ -14,7 +14,7 @@ AIとWebを軸に、企画・情報設計・デザイン・実装・デプロイ
 
 **Role:** Information Architecture / Web Design / Frontend / Responsive / Deployment / Operations
 
-[Live Website](https://tech-crea.com/) · [Case Study](works/crea.md)
+[Website](https://tech-crea.com/)
 
 ---
 
@@ -26,7 +26,7 @@ AIとWebを軸に、企画・情報設計・デザイン・実装・デプロイ
 
 **Role:** Planning / UI & UX / Frontend / Backend / AI / AWS / Deployment / Operations
 
-[Live Website](https://tti-intel.com/) · [Case Study](works/tti-intelligence.md) · [Source Repository](https://github.com/haruhito0314/tti-intel-web)
+[Website](https://tti-intel.com/)
 
 ## About This Repository
 
