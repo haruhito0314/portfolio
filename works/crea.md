@@ -4,7 +4,7 @@
 
 [Live Website](https://tech-crea.com/)
 
-![CREA Corporate Website](../assets/crea/crea-hero.png)
+![CREA Corporate Website](../assets/crea/crea-hero.jpg)
 
 ## Overview
 
@@ -41,19 +41,19 @@ DX支援・AIシステム構築、製造業向け支援、ファクトリーオ�
 
 ### First View
 
-![CREA first view](../assets/crea/crea-hero.png)
+![CREA first view](../assets/crea/crea-hero.jpg)
 
 企業の理念と支援姿勢を、最初の画面で端的に伝えています。
 
 ### Business
 
-![CREA business section](../assets/crea/crea-business.png)
+![CREA business section](../assets/crea/crea-business.jpg)
 
 複数の事業領域を、説明とビジュアルの組み合わせで整理しています。
 
 ### Mobile
 
-![CREA mobile view](../assets/crea/crea-mobile.png)
+![CREA mobile view](../assets/crea/crea-mobile.jpg)
 
 小さな画面でも、理念から支援の特徴まで自然な順序で確認できます。
 
