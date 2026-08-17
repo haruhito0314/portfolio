@@ -26,7 +26,7 @@ AIとWebを軸に、企画・情報設計・デザイン・実装・デプロイ
 
 **Role:** Planning / UI & UX / Frontend / Backend / AI / AWS / Deployment / Operations
 
-[Website](https://tti-intel.com/)
+[Website](https://tti-intel.com/) · [Source Code](https://github.com/haruhito0314/tti-intel-web)
 
 ## About This Repository
 
