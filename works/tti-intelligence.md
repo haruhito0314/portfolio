@@ -2,7 +2,7 @@
 
 [Live Website](https://tti-intel.com/) · [Source Repository](https://github.com/haruhito0314/tti-intel-web)
 
-![TTI Intelligence](../assets/tti/tti-hero.png)
+![TTI Intelligence](../assets/tti/tti-hero.jpg)
 
 ## Overview
 
@@ -43,19 +43,19 @@ TTI Intelligenceは、最新のAI技術を共に学び、実践的な開発を�
 
 ### First View
 
-![TTI first view](../assets/tti/tti-hero.png)
+![TTI first view](../assets/tti/tti-hero.jpg)
 
 コミュニティの目的と主要な導線を、最初の画面に集約しています。
 
 ### Activities
 
-![TTI activities](../assets/tti/tti-activities.png)
+![TTI activities](../assets/tti/tti-activities.jpg)
 
 解説動画や数学コンテンツなど、継続的な活動が伝わる構成です。
 
 ### Mobile
 
-![TTI mobile view](../assets/tti/tti-mobile.png)
+![TTI mobile view](../assets/tti/tti-mobile.jpg)
 
 スマートフォンでも主要メッセージと行動導線が明確に見えるよう調整しています。
 
