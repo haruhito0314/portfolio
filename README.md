@@ -10,9 +10,9 @@ AIとWebを軸に、企画・情報設計・デザイン・実装・デプロイ
 
 ![CREA Corporate Website](assets/crea/crea-hero.jpg)
 
-企業の事業内容と支援姿勢を、初めて訪れた方にも短時間で理解してもらうためのコーポレートサイトです。情報設計、デザイン、実装、レスポンシブ対応、公開・運用まで一貫して担当しました。
+企業の事業内容と支援姿勢を、初めて訪れた方にも短時間で理解してもらうためのコーポレートサイトです。情報設計、デザイン、フロントエンド、バックエンドを担当しました。
 
-**Role:** Information Architecture / Web Design / Frontend / Responsive / Deployment / Operations
+**Role:** Information Architecture / Web Design / Frontend / Backend
 
 [Website](https://tech-crea.com/)
 
