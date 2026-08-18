@@ -8,7 +8,7 @@ AIとWebを軸に、企画・情報設計・デザイン・実装・デプロイ
 
 ### 01 — CREA Corporate Website
 
-![CREA Corporate Website](assets/crea/crea-hero.jpg)
+<img src="assets/crea/crea-hero-framed.png" alt="CREA Corporate Website" width="800">
 
 企業の事業内容と支援姿勢を、初めて訪れた方にも短時間で理解してもらうためのコーポレートサイトです。情報設計、デザイン、フロントエンド、バックエンドを担当しました。
 
@@ -20,7 +20,7 @@ AIとWebを軸に、企画・情報設計・デザイン・実装・デプロイ
 
 ### 02 — TTI Intelligence
 
-![TTI Intelligence](assets/tti/tti-hero.jpg)
+<img src="assets/tti/tti-hero-framed.png" alt="TTI Intelligence" width="800">
 
 最新のAI技術を学び、実践的な開発を通じてアイデアを形にする学生コミュニティのWebサイトです。企画、デザイン、フロントエンド、バックエンド、AI機能、AWS、デプロイ、運用まで一貫して担当しています。
 
